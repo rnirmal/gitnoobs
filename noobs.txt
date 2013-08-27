@@ -1,6 +1,7 @@
 List of attendees for the git workflows brown bag
 -------------------------------------------------
 Nirmal Ranganathan
+James Thorne
 
 
-Latest Contributor = Nirmal Ranganathan
+Latest Contributor = James Thorne
