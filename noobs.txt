@@ -2,6 +2,6 @@ List of attendees for the git workflows brown bag
 -------------------------------------------------
 Nirmal Ranganathan
 James Thorne
+Sam Park
 
-
-Latest Contributor = James Thorne
+Latest Contributor = Sam Park
